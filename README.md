@@ -1,7 +1,7 @@
 # Pointing gestures object detection
   Assignment 11: Robot beliefs browsing using pointing gestures
 
-![N|Solid](https://github.com/LBarranco/pointing_gestures_object_detection/blob/master/Pointing%20gestures%20object%20detection%20architecture.png?raw=true)
+![N|Solid](https://github.com/EmaroLab/pointing_gestures_object_detection/blob/master/Pointing%20gestures%20object%20detection%20architecture.png?raw=true)
 
 The goal of the assignment is to allow a human to ask a robot, using pointing gestures, to express its beliefs about a specific object in a table-top scenario, given a vision-based and an ontology-based software packages.
 
